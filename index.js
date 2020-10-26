@@ -1,5 +1,5 @@
 function practiceTest(phrase) {
-  return phrase;
+  return phrase + "!";
 }
 
 module.exports = {
